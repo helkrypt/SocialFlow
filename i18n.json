@@ -9,6 +9,9 @@
   "locale": {
     "source": "en",
     "targets": [
+      "no",
+      "dk",
+      "se",
       "he",
       "ru",
       "zh",
